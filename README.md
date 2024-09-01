@@ -9,6 +9,7 @@ Welcome to the Violence Detection System! This project is designed to identify a
 High Accuracy: Achieves a remarkable 95% accuracy in distinguishing between violent and non-violent scenes.
 Real-time Detection: Processes images efficiently to detect violence in video feeds.
 Telegram Bot Integration: Seamlessly integrated with a Telegram bot that alerts you with images containing detected violence.
+
 📈 Technical Highlights:
 
 Model Architecture: Utilizes a custom architecture with extensive training and optimization, including MobileNetV3 and data augmentation techniques.
